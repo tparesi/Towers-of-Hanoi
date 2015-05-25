@@ -1,4 +1,4 @@
-# hanoi
+# Towers of Hanoi
 
 Similar to my Tic Tac Toe repo, I have created Towers of Hanoi a few times in different languages (Ruby and JS).
 
